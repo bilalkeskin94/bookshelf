@@ -1,3 +1,4 @@
 import Main from "./Main";
-import "./styles";
+import "./styles.js";
+
 export default Main;

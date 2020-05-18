@@ -1,3 +1,5 @@
 import Homepage from "./Homepage";
 import AddBook from "./AddBook";
-export { Homepage, AddBook };
+import BookDetail from "./BookDetail";
+
+export { Homepage, AddBook, BookDetail };

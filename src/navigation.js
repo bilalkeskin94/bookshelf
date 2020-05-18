@@ -1,7 +1,7 @@
 const navigation = {
   left: [
     {
-      title: "Homepage",
+      title: "HomePage",
       to: "/",
     },
     {
@@ -16,4 +16,5 @@ const navigation = {
     },
   ],
 };
+
 export default navigation;
